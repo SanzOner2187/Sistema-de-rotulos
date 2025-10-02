@@ -89,7 +89,7 @@ const consecutivoCaja = localStorage.getItem("consecutivoCaja") || 0;
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/SanzOner2187/Sistema-de-rotulos
 cd sistema-rotulos
 ```
 
